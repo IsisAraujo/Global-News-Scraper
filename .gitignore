@@ -1,0 +1,27 @@
+# Compiled files
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+# Virtual environment
+venv/
+env/
+env_bk/
+
+# Local configuration files
+*.env
+*.ini
+
+# Logs and log files
+*.log
+
+# Data files
+*.db
+*.sqlite3
+
+# Cache files
+__pycache__/
+.cache/
+
+
