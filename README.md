@@ -15,7 +15,10 @@ This project is a web scraper designed to fetch and display news articles from v
 
 ## Screenshots
 
-Include your program's screenshots here.
+![Screenshot 1](https://github.com/IsisAraujo/Global-News-Scraper/raw/master/2024-06-07_18-55.png)
+
+![Screenshot 2](https://github.com/IsisAraujo/Global-News-Scraper/raw/master/2024-06-07_18-56.png)
+
 
 ## Dependencies
 
@@ -47,7 +50,10 @@ Este projeto é um web scraper projetado para buscar e exibir artigos de notíci
 
 ## Screenshots
 
-Inclua aqui os prints das telas do seu programa.
+![Screenshot 1](https://github.com/IsisAraujo/Global-News-Scraper/raw/master/2024-06-07_18-55.png)
+
+![Screenshot 2](https://github.com/IsisAraujo/Global-News-Scraper/raw/master/2024-06-07_18-56.png)
+
 
 ## Dependências
 
